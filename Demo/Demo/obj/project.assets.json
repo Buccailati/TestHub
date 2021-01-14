@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\MyProject\\TortoiseDemo\\TestHub\\Demo\\Demo\\Demo.csproj",
+      "projectUniqueName": "F:\\MyProject\\MyProject\\TestHub\\Demo\\Demo\\Demo.csproj",
       "projectName": "Demo",
-      "projectPath": "F:\\MyProject\\TortoiseDemo\\TestHub\\Demo\\Demo\\Demo.csproj",
+      "projectPath": "F:\\MyProject\\MyProject\\TestHub\\Demo\\Demo\\Demo.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "F:\\MyProject\\TortoiseDemo\\TestHub\\Demo\\Demo\\obj\\",
+      "outputPath": "F:\\MyProject\\MyProject\\TestHub\\Demo\\Demo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
